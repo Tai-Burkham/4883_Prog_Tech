@@ -1,5 +1,5 @@
 ## Assignments
 
-|  Folder  | Folder Link | Assignment Description |
+|  #  | Folder Link | Assignment Description |
 | :-: | ----------- | ---------------------- |
-|  A03  | link 0      | description 0          |
+|  1  | [A03](./Assignments/A03/README.md) | [Online Judge First Problem](./Assignments/A03/README.md) |
