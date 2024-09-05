@@ -41,5 +41,5 @@ int main() {
 
 - Create a folder called `P10055` in your `assignments` folder.
 - Place the pdf, your solution code, and any input files you used in this folder.
-- Make sure you create an acceptable [README](../../Resources/03-Readmees/README.md) file for this project (presentation is everything!)
+- Make sure you create an acceptable
 - Commit this content to your github repo by the due date.
