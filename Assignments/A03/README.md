@@ -16,5 +16,5 @@ Hashmat problem requires the input of two numbers and finding the difference bet
 
 |   #   | File                       | Description                                                |
 | :---: | -------------------------- | ---------------------------------------------------------- |
-|   1   | [A03](./A03/P10055/Solution Code.md)(./Solution Code.md)     | solution file.                                     |
-|   2   | [A03](./A03/P10055)(./Solution Code.pdf)     | pdf of solution file.                              |
+|   1   | [Solution Code](./A03/P10055/Solution Code.md)     | solution file.                                     |
+|   2   | [PDF Version of Solution Code](./A03/P10055)       | pdf of solution file.                              |
