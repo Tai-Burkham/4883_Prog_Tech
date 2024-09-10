@@ -1,5 +1,5 @@
 ## Online Judge First Problem
-
+### Tailor Burkham
 - Number:
   - 10055
 - Name:
@@ -9,37 +9,12 @@
 - UDebug
   - https://www.udebug.com/UVa/10055
 
-Read about Hashmat in the provided pdf and make changes to the code below to correctly solve the problem. The code below works, but will not provide a correct answer. This fact will be exposed if you attempt running it with the uDebug input data sets.
+### Description: 
+Hashmat problem requires the input of two numbers and finding the difference between the two. First step is to find which input is larger. Then subtract the numbers to find the difference. This difference will determine when the file ends. Print the difference between the two numbers.
 
-### Starter Code
+### Files
 
-```cpp
-/**
-* Name
-* Course
-* Date
-*/
-#include <iostream>
-
-#define endl "\n"
-
-using namespace std;
-
-int main() {
-    long B = 0, A = 0;
-
-    while (cin >> A >> B) {
-
-        // your stuff here
-
-    }
-    return 0;
-}
-```
-
-### Deliverables
-
-- Create a folder called `P10055` in your `assignments` folder.
-- Place the pdf, your solution code, and any input files you used in this folder.
-- Make sure you create an acceptable
-- Commit this content to your github repo by the due date.
+|   #   | File                       | Description                                                |
+| :---: | -------------------------- | ---------------------------------------------------------- |
+|   1   | [A03](./A03/P10055/Solution Code.md)(./Solution Code.md)     | solution file.                                     |
+|   2   | [A03](./A03/P10055)(./Solution Code.pdf)     | pdf of solution file.                              |
