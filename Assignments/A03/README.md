@@ -14,5 +14,5 @@ Hashmat problem requires the input of two numbers and finding the difference bet
 
 |   #   | File                       | Description                                                |
 | :---: | -------------------------- | ---------------------------------------------------------- |
-|   1   | [Solution Code](./P10055/Solution Code.md)   | solution file.                                     |
+|   1   | [Solution Code](./P10055/SolutionCode.md)       | pdf of solution file.                              |
 |   2   | [PDF Version of Solution Code](./P10055/SolutionCode.pdf)       | pdf of solution file.                              |
