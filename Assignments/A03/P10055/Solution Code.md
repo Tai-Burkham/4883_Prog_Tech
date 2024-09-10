@@ -16,9 +16,14 @@ int main() {
     long B = 0, A = 0;
 
     while (cin >> A >> B) {
-
-        // your stuff here
-
+        long difference;
+        if (A > B) {
+            difference = A - B;
+        } else {
+            difference = B - A;
+        }
+        // Output the result
+        cout << difference << "\n";
     }
     return 0;
 }
