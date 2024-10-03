@@ -7,8 +7,8 @@ You are given an image represented by an m x n grid of integers image, where ima
 
 |   #   | File             | Description                                        |
 | :---: | ---------------- | -------------------------------------------------- |
-|   1   | [FloodFill_SolutionCode.cpp](./FloodFill_SolutionCode.cpp)         | Code I submitted in LeetCode  |
-|   2   | [FloodFill_Code_PDF_Version.pdf](./FloodFill_Code_PDF_Version.pdf)  | PDF Version of my Code for easier view|
+|   1   | [FloodFill_SolutionCode.cpp](./LeetCode_733/FloodFill_SolutionCode.cpp)         | Code I submitted in LeetCode  |
+|   2   | [FloodFill_Code_PDF_Version.pdf](./LeetCode_733/FloodFill_Code_PDF_Version.pdf)  | PDF Version of my Code for easier view|
 
 ### Instructions
 - I used C++
