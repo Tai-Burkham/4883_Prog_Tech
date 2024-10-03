@@ -1,5 +1,4 @@
-## Assignment 8 - Graphin Sleezy
-## LeetCode 733: Flood Fill
+## Assignment 8 - Graphin Sleezy -- LeetCode 733: Flood Fill
 ### Tailor Burkham
 ### Description:
 You are given an image represented by an m x n grid of integers image, where image[i][j] represents the pixel value of the image. You are also given three integers sr, sc, and color. Your task is to perform a flood fill on the image starting from the pixel image[sr][sc]. 
