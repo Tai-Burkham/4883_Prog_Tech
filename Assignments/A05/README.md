@@ -9,8 +9,8 @@ Commit this content to your github repo by the due date.
 
 
 - LeetCode 67 - add binary, This is a binary representation-related problem. Although it differs slightly, the logic of working with non-standard binary systems overlaps.
-- LeetCode 1365
--   How Many Numbers Are Smaller Than the Current Number deals with comparisons and rankings between numbers.
+- LeetCode 1365 - How Many Numbers Are Smaller Than the Current Number deals with
+- -comparisons and rankings between numbers.
 - LeetCode 1523
 -   Count Odd Numbers in an Interval Range. The logic of finding and summing odd numbers between two boundaries is closely related.
 - LeetCode 191
