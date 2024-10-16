@@ -7,6 +7,21 @@ Place the pdf, your solution code, and any input files you used in this folder.
 Make sure you create an acceptable README file for this project (presentation is everything!)
 Commit this content to your github repo by the due date.
 
+### Files
+
+|   #   | File                       | Description                                                |
+| :---: | -------------------------- | ---------------------------------------------------------- |
+|   1   | [P1365](./P1365/How_Many_Numbers_Are_Smaller_Than_the_Current_Number.cpp)     | 
+LeetCode 1365 - How Many Numbers Are Smaller Than the Current Number                    |
+|   2   | [input](./input)           | Test input file from problem statement                     |
+|   3   | [input2](./input2)         | Larger test input from udebug                              |
+|   4   | [input_hex](./input_hex)   | Test file for hexograms to make sure they were right size. |
+|   5   | [input_even](./input_even) | Test file to see if any hexograms were even.               |
+|   6   | [input_even](./input_even) | Test file to see if any hexograms were even.               |
+|   7   | [input_even](./input_even) | Test file to see if any hexograms were even.               |
+|   8   | [input_even](./input_even) | Test file to see if any hexograms were even.               |
+|   9   | [input_even](./input_even) | Test file to see if any hexograms were even.               |
+|   10   | [input_even](./input_even) | Test file to see if any hexograms were even.              |
 
 - LeetCode 67 - add binary, This is a binary representation-related problem. Although it differs slightly, the logic of working with non-standard binary systems overlaps.
 - LeetCode 1365 - How Many Numbers Are Smaller Than the Current Number deals with
