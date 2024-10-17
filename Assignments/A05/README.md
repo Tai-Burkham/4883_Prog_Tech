@@ -11,7 +11,7 @@ Commit this content to your github repo by the due date.
 
 |   #   | File                       | Description                                                |
 | :---: | -------------------------- | ---------------------------------------------------------- |
-|  1  | [P1365](./P1365) | [LeetCode 1365 - How Many Numbers Are Smaller Than the Current Number (./P1365/How_Many_Numbers_Are_Smaller_Than_the_Current_Number.cpp)|
+|  1  | [P1365](./P1365) | [LeetCode 1365 - How Many Numbers Are Smaller Than the Current Number](./P1365/How_Many_Numbers_Are_Smaller_Than_the_Current_Number.cpp)|
 |  2  | [P1523](./P1523) | [LeetCode 1523 - Count Odd Numbers in an Interval Range](./P1523/Count_Odd_Numbers.cpp)|
 |  3  | [P67](./P67) |   [LeetCode 67 - add binary, This is a binary representation-related problem](./P67/Add_Binary.cpp) |
 |  4  |    |  |
