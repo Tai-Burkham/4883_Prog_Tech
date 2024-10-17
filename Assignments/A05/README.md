@@ -12,8 +12,8 @@ Commit this content to your github repo by the due date.
 |   #   | File                       | Description                                                |
 | :---: | -------------------------- | ---------------------------------------------------------- |
 |   1   | [P1365](./P1365/How_Many_Numbers_Are_Smaller_Than_the_Current_Number.cpp)     | LeetCode 1365 - How Many Numbers Are Smaller Than the Current Number    |
-|   2   | [P1523](./P1523/Count_Odd_Numbers.cpp)           | LeetCode 1523 - Count Odd Numbers in an Interval Range                     |
-|   3   | [input2](./input2)         | Larger test input from udebug                              |
+|   2   | [P1523](./P1523/Count_Odd_Numbers.cpp) | LeetCode 1523 - Count Odd Numbers in an Interval Range                     |
+|   3   | [P67](./P67) |   [LeetCode 67 - add binary, This is a binary representation-related problem](./P67/Add_Binary.cpp) |
 |   4   | [input_hex](./input_hex)   | Test file for hexograms to make sure they were right size. |
 |   5   | [input_even](./input_even) | Test file to see if any hexograms were even.               |
 |   6   | [input_even](./input_even) | Test file to see if any hexograms were even.               |
@@ -22,7 +22,7 @@ Commit this content to your github repo by the due date.
 |   9   | [input_even](./input_even) | Test file to see if any hexograms were even.               |
 |   10   | [input_even](./input_even) | Test file to see if any hexograms were even.              |
 
-- LeetCode 67 - add binary, This is a binary representation-related problem. Although it differs slightly, the logic of working with non-standard binary systems overlaps.
+
 - LeetCode 1365 - How Many Numbers Are Smaller Than the Current Number deals with
 - -comparisons and rankings between numbers.
 - LeetCode 1523 - Count Odd Numbers in an Interval Range. The logic of finding and summing odd numbers between two boundaries is closely related.
