@@ -15,25 +15,17 @@ Commit this content to your github repo by the due date.
 |  2  | [P1523](./P1523) | [LeetCode 1523 - Count Odd Numbers in an Interval Range](./P1523/Count_Odd_Numbers.cpp)|
 |  3  | [P67](./P67) |   [LeetCode 67 - add binary, This is a binary representation-related problem](./P67/Add_Binary.cpp) |
 |  4  | [P1342](./P1342) | [LeetCode 1342 - Number of Steps to Reduce a Number to Zero](./P1342/Number_Of_Steps_Zero.cpp)|
-|  5  | |      |
-|  6  | |       |
-|  7  |  |      |
-|  8  |  |   |
-|  9  |  |                |
-|  10  | |               |
+|  5  | [P191](./P191) | [LeetCode 191 - Number of 1 Bits](./P191/Number_of_1_Bits.cpp)|
+|  6  | [P2](./P2) | [LeetCode 2 - Add Two Numbers](./P2/Add_Two_Numbers.cpp)|
+|  7  | [P66](./66) | [LeetCode 66 - Plus One](./P66/Plus_One.cpp)|
+|  8  | [P191](./P191) | [LeetCode 191 - Number of 1 Bits](./P191/Number_of_1_Bits.cpp)|
+|  9  | [P50](./P50) | [LeetCode 50 - Pow(x, n)](./P50/Pow(x,n).cpp)|
+|  10 | [P414](./P414) | [LeetCode 414 - Third Maximum Number](./P414/Third_Maximum_Number.cpp)|
 
 
-- LeetCode 191
--   Number of 1 Bits, where the goal is to count the number of 1s in the binary form of a number.
-- LeetCode 2 - Add Two Numbers, which also involves handling addition of large numbers, albeit represented differently.
-- LeetCode 66 - Plus One could help students develop basic arithmetic and comparison skills.
 - LeetCode 69 - Sqrt(x), as both involve math operations that require approximation techniques.
-- LeetCode 50 - Pow(x, n), where you calculate powers of numbers.
-- LeetCode 414 - Third Maximum Number, where the goal is to find the third maximum but can be adapted for second-largest as well.
 - LeetCode 55 - Jump Game, where you calculate possible jumps based on conditions.
-
-
-LeetCode 794: Valid Tic-Tac-Toe State
+- LeetCode 794: Valid Tic-Tac-Toe State
 This problem involves a mathematical sequence, much like UVa's problem where you work with dynamic sequences.
-LeetCode 1281: Subtract the Product and Sum of Digits
+- LeetCode 1281: Subtract the Product and Sum of Digits
 While this is a straightforward subtraction problem, this LeetCode problem involves subtraction logic in a basic setting.
