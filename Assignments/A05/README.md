@@ -1,5 +1,5 @@
 # Easy Breezy
-## 10 Codes I choose
+## 10 Codes I chose
 
 Deliverables
 Create a folder called P(problem_number) in your assignments folder.
@@ -14,7 +14,7 @@ Commit this content to your github repo by the due date.
 |  1  | [P1365](./P1365) | [LeetCode 1365 - How Many Numbers Are Smaller Than the Current Number](./P1365/How_Many_Numbers_Are_Smaller_Than_the_Current_Number.cpp)|
 |  2  | [P1523](./P1523) | [LeetCode 1523 - Count Odd Numbers in an Interval Range](./P1523/Count_Odd_Numbers.cpp)|
 |  3  | [P67](./P67) |   [LeetCode 67 - add binary, This is a binary representation-related problem](./P67/Add_Binary.cpp) |
-|  4  |    |  |
+|  4  | [P1342](./P1342) | [LeetCode 1342 - Number of Steps to Reduce a Number to Zero](./P1342/Number_Of_Steps_Zero.cpp)|
 |  5  | |      |
 |  6  | |       |
 |  7  |  |      |
@@ -23,9 +23,6 @@ Commit this content to your github repo by the due date.
 |  10  | |               |
 
 
-- LeetCode 1365 - How Many Numbers Are Smaller Than the Current Number deals with
-- -comparisons and rankings between numbers.
-- LeetCode 1523 - Count Odd Numbers in an Interval Range. The logic of finding and summing odd numbers between two boundaries is closely related.
 - LeetCode 191
 -   Number of 1 Bits, where the goal is to count the number of 1s in the binary form of a number.
 - LeetCode 2 - Add Two Numbers, which also involves handling addition of large numbers, albeit represented differently.
@@ -34,8 +31,6 @@ Commit this content to your github repo by the due date.
 - LeetCode 50 - Pow(x, n), where you calculate powers of numbers.
 - LeetCode 414 - Third Maximum Number, where the goal is to find the third maximum but can be adapted for second-largest as well.
 - LeetCode 55 - Jump Game, where you calculate possible jumps based on conditions.
-- LeetCode 1342: Number of Steps to Reduce a Number to Zero
--   Involves simple arithmetic calculations and iterative processes, similar to the physics problem.
 
 
 LeetCode 794: Valid Tic-Tac-Toe State
