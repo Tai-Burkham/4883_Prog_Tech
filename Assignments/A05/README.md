@@ -18,13 +18,12 @@ Commit this content to your github repo by the due date.
 |  5  | [P191](./P191) | [LeetCode 191 - Number of 1 Bits](./P191/Number_of_1_Bits.cpp)|
 |  6  | [P2](./P2) | [LeetCode 2 - Add Two Numbers](./P2/Add_Two_Numbers.cpp)|
 |  7  | [P66](./66) | [LeetCode 66 - Plus One](./P66/Plus_One.cpp)|
-|  8  | [P191](./P191) | [LeetCode 191 - Number of 1 Bits](./P191/Number_of_1_Bits.cpp)|
+|  8  | [P55](./P55) | [LeetCode 55 - Jump Game](./P55/Jump_Game.cpp)|
 |  9  | [P50](./P50) | [LeetCode 50 - Pow(x, n)](./P50/Pow(x,n).cpp)|
 |  10 | [P414](./P414) | [LeetCode 414 - Third Maximum Number](./P414/Third_Maximum_Number.cpp)|
 
 
 - LeetCode 69 - Sqrt(x), as both involve math operations that require approximation techniques.
-- LeetCode 55 - Jump Game, where you calculate possible jumps based on conditions.
 - LeetCode 794: Valid Tic-Tac-Toe State
 This problem involves a mathematical sequence, much like UVa's problem where you work with dynamic sequences.
 - LeetCode 1281: Subtract the Product and Sum of Digits
