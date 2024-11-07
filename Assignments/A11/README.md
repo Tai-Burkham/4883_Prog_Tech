@@ -8,8 +8,8 @@
 
 |   #   | File                       | Description                                                |
 | :---: | -------------------------- | ---------------------------------------------------------- |
-|   1   | [main.cpp](./main.cpp)     | solution file.                                             |
-|   2   | [input](./input)           | solution file.  PDF Version                                |
+|   1   | [Flower_Planting.cpp](./P1042/Flower_Planting.cpp)     | solution file.                                             |
+|   2   | [Flower_Planting_PDFv.pdf](./P1042/Flower_Planting_PDFv.pdf)           | solution file.  PDF Version                                |
 
 
 ### Instructions
