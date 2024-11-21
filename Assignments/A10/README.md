@@ -7,7 +7,7 @@ The distance between two points on the X-Y plane is the Euclidean distance (i.e.
 You may return the answer in any order. The answer is guaranteed to be unique (except for the order that it is in).
 
 ## Instruction
-I used the Graham's scan convex hull algorithm.
+
 
 |  #  | Folder Link | Assignment Description |
 | :-: | -------------- | --------------------------------------------------------- |
