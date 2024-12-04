@@ -8,7 +8,8 @@ Return the sorted string. If there are multiple answers, return any of them.
 
 |   #   | File                       | Description                                                |
 | :---: | -------------------------- | ---------------------------------------------------------- |
-|   1   | [solution_Code.cpp](./solution_Code.cpp)     | Solution Code                                            |
+|   1   | [solution_Code.cpp](./LeetCode451/solution_Code.cpp)     | LeetCode 451: Sort Characters By Frequency            |
+|   2   | [PDF Version](./LeetCode451/solution_Code.pdf)     | PDF Version of LeetCode 451         |
 
 
 ### Instructions
