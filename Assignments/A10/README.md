@@ -9,7 +9,7 @@ You may return the answer in any order. The answer is guaranteed to be unique (e
 |  #  | Folder Link | Assignment Description |
 | :-: | -------------- | --------------------------------------------------------- |
 |  1  | [P973](./P973) | [K Closest Points to Origin - Main Code](./P973/K_Closest_Points.cpp) |
-|  2  | [P973](./P973) | [K Closest Points to Origin - PDF Version](./P973/K_Closest_Points.pdf) |
+|  2  | [P973](./P973) | [K Closest Points to Origin - PDF Version](./P973/K_Closest_PointsPDF.pdf) |
 
 ## Instruction
 The Euclidean distance given is meant for Point to Point so I simplified it since the point is the origin (0,0). I used a Priority Queue (Heap) to find the k closest points to the origin. Then I used a lambda function to compare the points and use only the closest.
